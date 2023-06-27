@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "staticSites_dkb_noframework_name": {
-            "value": null
+            "value": "dkb-noframework"
         }
     }
 }
